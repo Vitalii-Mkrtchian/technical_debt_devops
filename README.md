@@ -1,2 +1,3 @@
 # technical_debt_devops
-exercise for review
+
+Шаг 1: заскриптовать установку/настройку сервиса сокращений. 
